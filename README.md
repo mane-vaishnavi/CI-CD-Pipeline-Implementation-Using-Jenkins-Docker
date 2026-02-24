@@ -1,6 +1,6 @@
-# 🚀 CI/CD Pipeline Implementation Using Jenkins & Docker
+## 🚀 CI/CD Pipeline Implementation Using Jenkins & Docker
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project demonstrates the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and Docker.
 
@@ -10,7 +10,7 @@ This helps reduce manual effort, improve deployment speed, and ensure consistent
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 - Automate build and deployment process
 - Reduce manual errors
@@ -20,7 +20,7 @@ This helps reduce manual effort, improve deployment speed, and ensure consistent
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - Git & GitHub – Version control
 - Jenkins – CI/CD automation tool
@@ -31,7 +31,7 @@ This helps reduce manual effort, improve deployment speed, and ensure consistent
 
 ---
 
-## ⚙️ Project Workflow
+### ⚙️ Project Workflow
 
 1. Developer pushes code to GitHub repository.
 2. GitHub webhook triggers Jenkins pipeline.
